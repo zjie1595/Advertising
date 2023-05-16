@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright © 2018-2020 TopOn. All rights reserved.
+  ~ https://www.toponad.com
+  ~ Licensed under the TopOn SDK License Agreement
+  ~ https://github.com/toponteam/TopOn-Android-SDK/blob/master/LICENSE
+  -->
+
+<paths>
+    <external-cache-path
+        name="gdt_sdk_download_path1"
+        path="com_qq_e_download" />
+    <cache-path
+        name="gdt_sdk_download_path2"
+        path="com_qq_e_download" />
+</paths>
